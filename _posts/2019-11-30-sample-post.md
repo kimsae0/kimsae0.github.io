@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample post
+title: TEST
 tags: [A Tag, Test, Lorem, Ipsum]
 author-id: mhagnumdw
 excerpt_separator: <!--more-->
